@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-color: rgb(95, 90, 75);
+  } 
+  input {
+    background-color: rgba(186, 202, 171, 0.256);
+    color: rgb(243, 240, 240);
+    border-radius: 30px;
+    margin-bottom: 5px;
+    border: solid 1px rgb(72, 72, 192);
+    width: 300px;
+  }
+  .btn{
+    border-radius: 20px;
+    margin-top: 2px;
+  }
+  .btn-info{
+    margin-left: 10%;
+  }
+  table {
+    width: 100%;
+    color: white;
+  }
+  
+  #colunaNome {
+    width: 30%;
+    text-align: left;
+  }
+  
+  #colunaCpf {
+    width: 15%;
+    text-align: center;
+  }
+  
+  #colunaData {
+    width: 15%;
+    text-align: center;
+  }
+  
+  #colunaAcoes {
+    width: 20%;
+    text-align: center;
+  }
+  
+  #colunaInformacoes{
+    width: 20%;
+    text-align: center;
+  }
+  
+  button {
+    margin-left: 5px;
+  }
+  #listaAlunos{
+    margin-top: 30px;
+  }
+  ::placeholder{
+    color: rgb(216, 200, 199);
+  }
